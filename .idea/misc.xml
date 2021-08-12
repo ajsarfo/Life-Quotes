@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_copy.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_love_filled.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_love_unfilled.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.27760416666666665" />
+        <entry key="app/src/main/res/drawable/ic_nav_favorite.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/main_toolbar_shape.xml" value="0.27760416666666665" />
+        <entry key="app/src/main/res/drawable/more_apps.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/quote_detail_anchor_shape.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/quote_item_shape.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/rate.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/drawable/transparent_dark_layer.xml" value="0.2337719298245614" />
+        <entry key="app/src/main/res/layout/activity_categories.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_quote.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_category_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_drawer_header.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_loading_dialog.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_main_palette.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_main_section.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_main_today_quote.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_palette_item.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/layout/layout_quote_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_quote_pager_view.xml" value="0.22017543859649122" />
+        <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.2074561403508772" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14385964912280702" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14385964912280702" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

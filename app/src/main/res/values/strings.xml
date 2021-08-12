@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Life Quotes</string>
+    <string name="loading">Preparing Quotes</string>
+    <string name="today_quote">Today\'s Quote</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="app_share_message">"Hi! Take a look at this amazing app Life Quotes. Its free!! You should get it too."</string>
+
+    <string name="appodeal_id">b9fd370f7351aa4ec029d2c7cf960c04b4b681d896a6fd33</string>
+</resources>

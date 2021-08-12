@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_section"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="@color/color_toolbar"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardCornerRadius="@dimen/card_corner_size"
+    app:cardElevation="@dimen/card_elevation"
+    tools:layout_height="@dimen/main_section_card_height">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:paddingBottom="@dimen/main_section_bottom_padding"
+            android:paddingTop="@dimen/main_section_bottom_padding"
+            android:paddingRight="@dimen/main_section_bottom_padding"
+            android:paddingLeft="@dimen/main_general_padding_left_right"
+            android:paddingEnd="@dimen/main_section_bottom_padding"
+            android:paddingStart="@dimen/main_general_padding_left_right">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/raleway_bold"
+                android:gravity="start"
+                android:textColor="@color/color_on_toolbar"
+                android:textSize="16sp"
+                tools:text="Motivational\nQuotes" />
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_corner_size">6dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <dimen name="main_toolbar_left_right_margin">24dp</dimen>
+
+    <dimen name="main_section_card_height">240dp</dimen>
+    <dimen name="main_today_quote_card_height">300dp</dimen>
+
+    <dimen name="main_palette_height">150dp</dimen>
+    <dimen name="main_palette_left_right_padding">8dp</dimen>
+    <dimen name="main_palette_top_bottom_padding">20dp</dimen>
+
+    <dimen name="quote_item_card_height">300dp</dimen>
+    <dimen name="quote_item_bottom_icon_size">32dp</dimen>
+    <dimen name="quote_item_icon_padding">6dp</dimen>
+    <dimen name="quote_item_margin_left_right">8dp</dimen>
+
+    <dimen name="main_section_bottom_padding">8dp</dimen>
+    <dimen name="main_today_margin_left_right">8dp</dimen>
+
+    <dimen name="main_general_padding_left_right">16dp</dimen>
+</resources>

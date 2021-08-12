@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/color_toolbar"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/header_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        tools:srcCompat="@tools:sample/backgrounds/scenic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App developed by Sarftec"
+        android:fontFamily="@font/raleway_bold"
+        android:textColor="@color/color_on_toolbar"
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/raleway_bold"
+        android:alpha="0.5"
+        android:text="sarftecsolutions111@gmail.com"
+        android:textColor="@color/color_on_toolbar"
+        android:paddingTop="2dp"/>
+</LinearLayout>
